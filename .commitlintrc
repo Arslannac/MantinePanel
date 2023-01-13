@@ -10,7 +10,8 @@
         ],
         "subject-full-stop": [
             0,
-            "always"
+            "always",
+            "."
         ],
         "header-max-length": [
             0,
